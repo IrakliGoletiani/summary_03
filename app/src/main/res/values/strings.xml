@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sammary3</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_user">Add User</string>
+    <string name="save">Save</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+</resources>
